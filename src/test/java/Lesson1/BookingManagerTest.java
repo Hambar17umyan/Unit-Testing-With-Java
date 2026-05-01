@@ -1,5 +1,7 @@
-import org.Mockito.BookingManager;
-import org.Mockito.HotelDao;
+package Lesson1;
+
+import org.Lesson1.BookingManager;
+import org.Lesson1.HotelDao;
 import org.junit.Before;
 import org.junit.Test;
 

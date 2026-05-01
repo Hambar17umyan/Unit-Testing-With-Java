@@ -1,4 +1,4 @@
-package org.Mockito;
+package org.Lesson1;
 
 import java.sql.SQLException;
 import java.util.List;

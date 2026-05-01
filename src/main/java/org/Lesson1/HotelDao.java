@@ -1,4 +1,4 @@
-package org.Mockito;
+package org.Lesson1;
 
 import java.sql.*;
 import java.util.ArrayList;
